@@ -13,7 +13,7 @@ M1 Mac macOS Ventura 13.5.2での動作確認済みです。
 
 以下のものを用意する必要があります。
 
-1. decrypted IPA(復号済みIPA)
+1. decrypted IPA(復号済みIPA)\
    入手する方法は大きく分けて3つあります。
    1. 自分で脱獄してdecrypted IPAを取得する
       [iGameGod](https://igamegod.app/)のダンプ機能が一番安定していると思います。
@@ -24,23 +24,23 @@ M1 Mac macOS Ventura 13.5.2での動作確認済みです。
    3. 暗号化されたIPAを復号する(動作せず)
       [appdecrypt](https://github.com/paradiseduo/appdecrypt)というSIPが有効化されたMac上で暗号化されたIPAを復号するツールもあるみたいですが、こちらの環境では動作しませんでした。\
       暗号化されたIPAはiTunesから取得できます。
-2. TASOLLERのカスタムファームウェア
+2. TASOLLERのカスタムファームウェア\
    「TASOLLER Firmware, driver and chuniio for HID on V2.0 with AMD support!」を入手してください。\
    Cons\&Stuffで配布されています。chunithmチャンネルのピン留めされているメッセージにリンクがあります。\
    入手できたらTASOLLERにインストールしておいてください。
    AMDに対応していないCFWだとTASOLLERがMacで認識しませんでした。
-3. Gitの実行環境
+3. Gitの実行環境\
    Gitをインストールしておいてください。\
    brew install git
-4. Pythonの実行環境
+4. Pythonの実行環境\
    3.9以上を推奨します。
-5. poetryの実行環境
+5. poetryの実行環境\
    Pythonのパッケージ管理ツールであるpoetryをインストールしておいてください。\
    https://python-poetry.org/docs/
-6. Node.jsの実行環境
+6. Node.jsの実行環境\
    node -v\
    v20.8.0
-7. PlayCover
+7. PlayCover\
    Apple Silicon製のMacでiOSアプリを動かすためのツールです。
    https://playcover.io/
 
