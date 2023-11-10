@@ -15,13 +15,13 @@ M1 Mac macOS Ventura 13.5.2での動作確認済みです。
 
 1. decrypted IPA(復号済みIPA)\
    入手する方法は大きく分けて3つあります。
-   1. 自分で脱獄してdecrypted IPAを取得する
+   1. 自分で脱獄してdecrypted IPAを取得する\
       [iGameGod](https://igamegod.app/)のダンプ機能が一番安定していると思います。
-   2. decrypted IPA Storeから入手する
+   2. decrypted IPA Storeから入手する\
       安全性は保証されないので注意してください。\
       [ArmConverter](https://armconverter.com/decryptedappstore/jp)\
       [Decrypt.day](https://decrypt.day/)
-   3. 暗号化されたIPAを復号する(動作せず)
+   3. 暗号化されたIPAを復号する(動作せず)\
       [appdecrypt](https://github.com/paradiseduo/appdecrypt)というSIPが有効化されたMac上で暗号化されたIPAを復号するツールもあるみたいですが、こちらの環境では動作しませんでした。\
       暗号化されたIPAはiTunesから取得できます。
 2. TASOLLERのカスタムファームウェア\
