@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "tasoller-ios-bridge"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "tasoller_ios_bridge"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+libusb-package = "^1.0.26.2"
+libusb = "^1.0.26b5"
+pyusb = "^1.2.1"
+frida-tools = "^12.3.0"
+frida = "^16.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
