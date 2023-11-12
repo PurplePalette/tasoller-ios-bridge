@@ -3,6 +3,10 @@
 TASOLLERをiOSアプリで使用するためのツールです。\
 M1 Mac macOS Ventura 13.5.2での動作確認済みです。
 
+**What is TASOLLER ?**
+TASOLLER is a controller for c\*unithm.\
+https://www.dj-dao.com/jp/tasoller
+
 ## 構成
 
 ![tasoller-ios-bridge drawio](https://github.com/PurplePalette/tasoller-ios-bridge/assets/16555696/6a7846f6-e1dc-448f-b86c-219142fec72c)
